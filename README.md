@@ -1,6 +1,8 @@
 # Tello Drone Control Project
 
-![Tello Drone](drone_image.jpg)
+<p align="center">
+    <img width="320" height="240" src="https://raw.githubusercontent.com/jonah-gr/tello-drone-control-project/master/images/drone_image.jpg">
+</p>
 
 Welcome to the Tello Drone Control Project! This repository contains the source code and documentation for controlling a Tello drone using Python and various libraries. Whether you're looking to explore drone programming or use the Tello drone for fun or educational purposes, this project provides a platform to get started.
 
